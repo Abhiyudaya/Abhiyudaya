@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Abhyudaya;Mobile+App+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Abhiyudaya;Mobile+App+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -26,8 +26,6 @@ Currently working on projects ranging from **Face Recognition Systems** to **Foo
 ### Frontend & Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & APIs
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
