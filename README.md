@@ -91,7 +91,7 @@ Currently working as an **Android Development Intern at UpAndUp.Life**, where I 
 <div align="center">
 
 [![Neuro-Support](https://github-readme-stats.vercel.app/api/pin/?username=Abhiyudaya&repo=Neuro-Support&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Abhiyudaya/Neuro-Support)
-[![FamilyTime](https://github-readme-stats.vercel.app/api/pin/?username=Abhiyudaya&repo=FamilyTime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Abhiyudaya/FamilyTime)
+[![FamilyTime](https://github-readme-stats.vercel.app/api/pin/?username=Abhiyudaya&repo=FamilyTime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Abhiyudaya/FamilyApp)
 
 </div>
 
