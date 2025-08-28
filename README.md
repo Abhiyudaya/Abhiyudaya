@@ -88,13 +88,6 @@ Currently working as an **Android Development Intern at UpAndUp.Life**, where I 
 - **Google Sign-In** & **Firebase Messaging** increased user sign-ups by **20%** with **95%** satisfaction
 - **Tech Stack**: Kotlin, Firebase, Google Maps API, Room DB, Coroutines
 
-<div align="center">
-
-[![Neuro-Support](https://github-readme-stats.vercel.app/api/pin/?username=Abhiyudaya&repo=Neuro-Support&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Abhiyudaya/Neuro-Support)
-[![FamilyTime](https://github-readme-stats.vercel.app/api/pin/?username=Abhiyudaya&repo=FamilyTime&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Abhiyudaya/FamilyApp)
-
-</div>
-
 ## 🎯 Professional Experience
 
 ### 💼 UpAndUp.Life - Android Development Intern
